@@ -1,5 +1,5 @@
-## 와인 카테고리 분류
-- k means, k medoid - clustering과 silhouette coefficent를 통하여 
+# 와인 카테고리 분류
+#####k means, k medoid - clustering과 silhouette coefficent를 통하여 
 
 
 ### 도입
